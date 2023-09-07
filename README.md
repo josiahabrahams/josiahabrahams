@@ -8,7 +8,4 @@
   - [counter app via state ](https://github.com/josiahabrahams/JOSABR047_SOZ2301_Group3_Josiah_Abrahams_DWA14.git)
   - [weather fetcher app ](https://github.com/josiahabrahams/weather_fetcher.git)
 
-<!---
-josiahabrahams/josiahabrahams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
